@@ -1,35 +1,111 @@
-<h1 align="center">Hi 👋, I'm Ayush</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h1 align="center">Hi 👋, I am Ayush Jha</h1>
+<table style="width: 100%;">
+  <tr>
+    <td style="vertical-align: top; width: 50%;">
+      <h3>A Wanna be Competetive Programmer, Full-Stack Developer and a Tech Enthusiast from India.</h3>
+      <p>
+        Passionate about building interactive applications and learning new technologies. 
+        I enjoy working on both front-end and back-end projects, constantly seeking to improve my skills 
+        and contribute to innovative solutions. 
+      </p>
+      <br/>
+<div align="center">
+  <a href="https://discord.com/users/darkreplusr" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="42" height="40" alt="discord logo" />
+  </a>
+  <a href="mailto:ayushjha949@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="40" alt="gmail logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/ayuzhjha" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="40" alt="linkedin logo" />
+  </a>
+  <a href="https://x.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="42" height="40" alt="twitter logo" />
+  </a>
+  <a href="https://t.me/xaezor" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="42" height="40" alt="telegram logo" />
+  </a>
+  <a href="https://www.youtube.com/xaezor" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="yt logo" />
+  </a>
+</div>
+    </td>
+    <td style="text-align: right; width: 50%;">
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGg5Y21iNnpsN21oMWRrZTdvZGZkdmEycDExNWZ3N3RkejdoYWx6dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IvoysZG4Zn5a4cWBZA/giphy.gif" alt="Animated GIF" width="500" height="500"/>
+    </td>
+  </tr>
+</table>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=onedark"><img src="https://github-profile-trophy.vercel.app/?username=ayuzhjha" alt="ayuzhjha" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [https://ayuzhjha.xaezor.io](https://ayuzhjha.xaezor.io)
-
-- 📫 How to reach me **Ayushjha949@gmail.com**
-
-- 📄 Know about my experiences [Https://www.linkedin.com/in/xaezor](Https://www.linkedin.com/in/xaezor)
-
-- ⚡ Fun fact **Why do programmers prefer dark mode? Because light attracts bugs.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/ayuzhjha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ayuzhjha" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/xaezor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xaezor" height="30" width="40" /></a>
-<a href="https://instagram.com/ayuzh_jha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayuzh_jha" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/xaezor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="xaezor" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/thizisaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="thizisaj" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/qclavbzxs2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="qclavbzxs2" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ayushjiqd2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ayushjiqd2" height="30" width="40" /></a>
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/js-icon.svg"  width="80" height="80" alt="javascript logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="css3 logo"  />
+  <img width="11" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="python logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="html5 logo"  />
+  <img width="11" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="github logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="mongodb logo"  />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="65" height="65" alt="sqllite logo"  />
+  <img width="11" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="mysql logo"  />
+  <img width="11" />
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" alt="cplusplus logo"  />
+  <img width="11" />
+  <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="65" height="65" alt="redux logo"  />
+  <img width="11" />
+  <img src="https://techstack-generator.vercel.app/django-icon.svg" width="65" height="65" alt="django logo"  />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="65" height="65" alt="c logo"  />
+  <img width="11" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="80" height="80" alt="typescript logo"  />
+  <img width="11" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" alt="react logo"  />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="65" height="65" alt="figma logo"  />
+  <img width="11" />
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" width="65" height="65" alt="jupyter logo"  />
+  <img width="11" />
+  <img src="https://imgs.search.brave.com/TGmEQZBLfzt8COMRcH7TFt8IM2pcfKJ3fXdocfgae7U/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4t/aWNvbnMtcG5nLmZs/YXRpY29uLmNvbS81/MTIvNjEzMi82MTMy/MjIwLnBuZw" width="65" height="65" alt="scala logo"  />
+</div>
+<br>
+<div align="center">
+<p align="center">
+  <a href="https://github.com/ayuzhjha?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/?username=ayuzhjha&show_icons=true&hide=contribs&count_private=true&include_all_commits=true&theme=radical" width=500 height=600 />
+  </a>
+  <a href="https://github.com/ayuzhjha">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayuzhjha&layout=compact&theme=radical&langs_count=6" width=400 />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+  <br>
+  <img src="https://streak-stats.demolab.com?user=ayuzhjha&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="175" alt="streak graph"  />
+  <br>
+  <div align="right">
+    <img src="https://github-profile-trophy.vercel.app/?username=ayuzhjha&theme=matrix&column=9" alt="GitHub Trophy" />
+  </div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayuzhjha&radius=16&theme=nightowl&area=true&order=5&hide_title=false" height="300" alt="activity-graph graph"  />
+</div>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/ayuzhjha"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ayuzhjha" /></a></p><br><br>
+###
+###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayuzhjha&show_icons=true&locale=en&layout=compact" alt="ayuzhjha" /></p>
+###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayuzhjha&show_icons=true&locale=en" alt="ayuzhjha" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayuzhjha&" alt="ayuzhjha" /></p>
+<!-- Certifications -->
+<!-- <div align="center" style="display:flex; gap:20px;">
+  <img src="https://images.credly.com/size/220x220/images/6835309d-5d53-4231-abd7-a3aead632fc0/blob" width="200">
+  <img src="https://images.credly.com/size/220x220/images/e99e035b-06c9-4a97-b96e-2cad2756180c/blob" width="200">
+</div> -->
+<!-- <img src="https://images.credly.com/size/220x220/images/6835309d-5d53-4231-abd7-a3aead632fc0/blob" width="200">
+<img src="https://images.credly.com/size/220x220/images/e99e035b-06c9-4a97-b96e-2cad2756180c/blob" width="200 > -->
+<!-- Profile Views Counter -->
+<div align="center">
+   <p align="left" style:color="Green"><b>Visitor count</b></p>
+  <img src="https://moe-counter.glitch.me/get/@LSUDOKO?theme=rule34" />
+</div>
