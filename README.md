@@ -73,14 +73,14 @@
 </div>
 <br>
 <div align="center">
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/ayuzhjha?tab=repositories">
     <img src="https://github-readme-stats.vercel.app/api/?username=ayuzhjha&show_icons=true&hide=contribs&count_private=true&include_all_commits=true&theme=radical" width=500 height=600 />
   </a>
   <a href="https://github.com/ayuzhjha">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayuzhjha&layout=compact&theme=radical&langs_count=6" width=400 />
   </a>
-</p>
+</p> -->
 
   <br>
   <img src="https://streak-stats.demolab.com?user=ayuzhjha&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="175" alt="streak graph"  />
