@@ -49,23 +49,23 @@
   <img width="11" />
   <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="mongodb logo"  />
   <img width="11" />
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="65" height="65" alt="sqllite logo"  /> -->
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="65" height="65" alt="sqllite logo"  /> 
   <img width="11" />
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="mysql logo"  />
   <img width="11" />
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" alt="cplusplus logo"  />
   <img width="11" />
-  <!-- <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="65" height="65" alt="redux logo"  /> -->
+  <!-- <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="65" height="65" alt="redux logo"  /> 
   <img width="11" />
-  <!-- <img src="https://techstack-generator.vercel.app/django-icon.svg" width="65" height="65" alt="django logo"  /> -->
+  <!-- <img src="https://techstack-generator.vercel.app/django-icon.svg" width="65" height="65" alt="django logo"  /> -
   <img width="11" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="65" height="65" alt="c logo"  />
   <img width="11" />
-  <!-- <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="80" height="80" alt="typescript logo"  /> -->
+  <!-- <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="80" height="80" alt="typescript logo"  /> 
   <img width="11" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" alt="react logo"  />
   <img width="11" />
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="65" height="65" alt="figma logo"  /> -->
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="65" height="65" alt="figma logo"  />
   <img width="11" />
   <img src="https://cdn.simpleicons.org/jupyter/F37626" width="65" height="65" alt="jupyter logo"  />
   <img width="11" />
@@ -81,12 +81,12 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayuzhjha&layout=compact&theme=radical&langs_count=6" width=400 />
   </a>
 </p> -->
-
+<!--
   <br>
-  <!-- <img src="https://streak-stats.demolab.com?user=ayuzhjha&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="175" alt="streak graph"  /> -->
+  <!-- <img src="https://streak-stats.demolab.com?user=ayuzhjha&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="175" alt="streak graph"  /> 
   <br>
   <div align="right">
-    <!-- <img src="https://github-profile-trophy.vercel.app/?username=ayuzhjha&theme=matrix&column=9" alt="GitHub Trophy" /> -->
+    <!-- <img src="https://github-profile-trophy.vercel.app/?username=ayuzhjha&theme=matrix&column=9" alt="GitHub Trophy" /> 
   </div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide=html,css" />
 
@@ -98,7 +98,7 @@
 
 ###
 
-
+-->
 <!-- Certifications -->
 <!-- <div align="center" style="display:flex; gap:20px;">
   <img src="https://images.credly.com/size/220x220/images/6835309d-5d53-4231-abd7-a3aead632fc0/blob" width="200">
@@ -106,7 +106,7 @@
 </div> -->
 <!-- <img src="https://images.credly.com/size/220x220/images/6835309d-5d53-4231-abd7-a3aead632fc0/blob" width="200">
 <img src="https://images.credly.com/size/220x220/images/e99e035b-06c9-4a97-b96e-2cad2756180c/blob" width="200 > -->
-<!-- Profile Views Counter -->
+<!-- Profile Views Counter 
 <div align="center">
    <p align="left" style:color="Green"><b>Visitor count</b></p>
   <img src="https://moe-counter.glitch.me/get/@LSUDOKO?theme=rule34" />
