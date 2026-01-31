@@ -88,6 +88,8 @@
   <div align="right">
     <!-- <img src="https://github-profile-trophy.vercel.app/?username=ayuzhjha&theme=matrix&column=9" alt="GitHub Trophy" /> -->
   </div>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide=html,css)
+
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayuzhjha&radius=16&theme=nightowl&area=true&order=5&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
