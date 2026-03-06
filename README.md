@@ -1,4 +1,4 @@
-<!-- <h1 align="center">Hi 👋, I am Ayush Jha</h1>
+ <h1 align="center">Hi 👋, I am Ayush Jha</h1>
 <table style="width: 100%;">
   <tr>
     <td style="vertical-align: top; width: 50%;">
