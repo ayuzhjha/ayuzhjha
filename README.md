@@ -92,7 +92,7 @@
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayuzhjha&radius=16&theme=nightowl&area=true&order=5&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={username}&theme={theme_name}&exclude={exclude}" height="300" alt="lang stats" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayuzhjha&theme={theme_name}&exclude={exclude}" height="300" alt="lang stats" />
 ###
 ###
 
