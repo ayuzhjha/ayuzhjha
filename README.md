@@ -31,7 +31,6 @@
         </a>
       </div>
     </td>
-
     <td style="text-align: right; width: 50%;">
       <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGg5Y21iNnpsN21oMWRrZTdvZGZkdmEycDExNWZ3N3RkejdoYWx6dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IvoysZG4Zn5a4cWBZA/giphy.gif" width="500" height="500"/>
     </td>
@@ -47,7 +46,6 @@
   <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" />
-  <img src="https://cdn.simpleicons.org/jupyter/F37626" width="65" height="65" />
   <img src="https://imgs.search.brave.com/TGmEQZBLfzt8COMRcH7TFt8IM2pcfKJ3fXdocfgae7U/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4taWNvbnMtcG5nLmZsYXRpY29uLmNvbS81MTIvNjEzMi82MTMyMjIwLnBuZw" width="65" height="65" />
 </div>
 
