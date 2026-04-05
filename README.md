@@ -58,5 +58,5 @@
 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayuzhjha&theme=github_dark" height="300" />
 
- <img src="https://github-readme-stats.vercel.app/api?username=ayuzhjha&theme=dracula" height="300" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=ayuzhjha&theme=dracula" height="300" /> -->
 </div>
