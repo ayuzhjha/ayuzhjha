@@ -3,7 +3,7 @@
 <table style="width: 100%;">
   <tr>
     <td style="vertical-align: top; width: 50%;">
-      <h3>A Wanna be Competitive Programmer, Full-Stack Developer and a Tech Enthusiast from India.</h3>
+      <h3>A Wanna be Competitive Programmer, Full-Stack Web Developer and a Tech Enthusiast from India.</h3>
       <p>
         Passionate about building interactive applications and learning new technologies. 
         I enjoy working on both front-end and back-end projects, constantly seeking to improve my skills 
