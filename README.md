@@ -20,6 +20,7 @@ identity:
   name       : "Ayush Jha"
   location   : "India 🇮🇳"
   status     : "Online — Building Projects"
+  email      : "Ayushjha949@gmail.com"
 
 roles:
   -B.Tech Undergrad
