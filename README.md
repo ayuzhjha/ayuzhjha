@@ -13,7 +13,7 @@
 
 ---
 
-## 🧠 `SYSTEM::ABOUT_ME`
+## 🧠 `ABOUT_ME`
 
 ```yaml
 identity:
@@ -35,7 +35,7 @@ currently_building:
 
 ---
 
-## 🌐 `NETWORK::CONNECT`
+## 🌐 `CONNECT`
 
 <div align="center">
 
@@ -49,7 +49,7 @@ currently_building:
 ---
 
 
-## ⚙️ `SYSTEM::TECH_STACK`
+## ⚙️ `TECH_STACK`
  
 <h3 >◈ Languages</h4>
 <p>
@@ -97,7 +97,7 @@ currently_building:
 
 ---
 
-## 🗂️ `XAEZOR::PROJECTS`
+## 🗂️ `PROJECTS`
 
 <div align="center">
 
@@ -112,7 +112,7 @@ currently_building:
 
 ---
 
-## 📊 `SYSTEM::GITHUB_STATS`
+## 📊 `GITHUB_STATS`
 
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayuzhjha&theme=tokyonight" height="180"/>
@@ -122,7 +122,7 @@ currently_building:
 
 ---
 
-## 🧬 `SYSTEM::TOP_LANGUAGES`
+## 🧬 `TOP_LANGUAGES`
 
 <div align="center">
 
@@ -132,7 +132,7 @@ currently_building:
 
 ---
 
-## 🏆 `SYSTEM::TROPHIES`
+## 🏆 `TROPHIES`
 
 <div align="center">
 
@@ -142,7 +142,7 @@ currently_building:
 
 ---
 
-## ⚡ `SYSTEM::ACTIVITY_GRAPH`
+## ⚡ `ACTIVITY_GRAPH`
 
 <div align="center">
 
