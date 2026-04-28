@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:00f7ff,50:0066ff,100:7b00ff&height=200&section=header&text=AYUSH%20JHA&fontSize=60&fontColor=ffffff&animation=blinking"/>
 
 <!-- CYBER TYPING ANIMATION -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&height=60&lines=%E2%9A%A1+Full+Stack+Developer;%F0%9F%A4%96+AI%2FML+Engineer;%E2%9A%94%EF%B8%8F+Competitive+Programmer;%F0%9F%8C%90+Building+the+XAEZOR+Ecosystem;%F0%9F%94%AC+Engineering+Intelligent+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&height=60&lines=%E2%9A%A1+Full+Stack+Developer;%F0%9F%A4%96+AI%2FML+Engineer;%E2%9A%94%EF%B8%8F+Competitive+Programmer;%F0%9F%8C%90+Building+the+XAEZOR+Ecosystem;%F0%9F%94%AC+Engineering+Intelligent+Systems;%F0%9F%94%AC+Wannabe" />
 
 <!-- MATRIX-STYLE DIVIDER -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
