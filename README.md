@@ -46,7 +46,7 @@
   <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" />
-  <img src="https://imgs.search.brave.com/TGmEQZBLfzt8COMRcH7TFt8IM2pcfKJ3fXdocfgae7U/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4taWNvbnMtcG5nLmZsYXRpY29uLmNvbS81MTIvNjEzMi82MTMyMjIwLnBuZw" width="65" height="65" />
+  <!-- <img src="https://imgs.search.brave.com/TGmEQZBLfzt8COMRcH7TFt8IM2pcfKJ3fXdocfgae7U/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4taWNvbnMtcG5nLmZsYXRpY29uLmNvbS81MTIvNjEzMi82MTMyMjIwLnBuZw" width="65" height="65" /> -->
 </div>
 
 <br>
