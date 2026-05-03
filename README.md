@@ -87,6 +87,9 @@ currently_building:
 ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
  
+### ◈ AI/ML
+![Still Learning]([https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-%2300f7ff.svg?style=for-the-badge&logo=thealgorithms&logoColor=black](https://img.shields.io/badge/Learning-%23f7c600.svg?style=for-the-badge&logo=book&logoColor=black))
+
 ### ◈ CS Fundamentals
 ![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-%2300f7ff.svg?style=for-the-badge&logo=thealgorithms&logoColor=black)
 ![DBMS](https://img.shields.io/badge/DBMS-%234479A1.svg?style=for-the-badge&logo=databricks&logoColor=black)
