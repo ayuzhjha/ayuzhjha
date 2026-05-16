@@ -129,7 +129,8 @@ currently_building:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayuzhjha&layout=compact&theme=tokyonight&hide_border=true&title_color=00f7ff&text_color=ffffff&bg_color=0d1117&langs_count=8" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayuzhjha&layout=compact&theme=tokyonight&hide_border=true&title_color=00f7ff&text_color=ffffff&bg_color=0d1117&langs_count=6" />
 
 </div>
 
