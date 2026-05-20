@@ -26,11 +26,6 @@ roles:
   -B.Tech Undergrad
   -A Wanna be Competitive Programmer, Full-Stack Web Developer and AI/ML Enthusiast from India.
 
-currently_building:
-  - XAEZOR Ecosystem (AI + Security + Automation)
-  - XARVIS  — Desktop Smart AI Assistant
-  - Leveling up DSA & System Design
-
 ```
 
 ---
