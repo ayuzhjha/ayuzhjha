@@ -66,9 +66,9 @@ roles:
 
 | Project | Stack | Description |
 |---|---|---|
-| [⚡ **XARVIS**](https://github.com/ayuzhjha/XARVIS) | `AI/ML` | Desktop "Smart" AI Assistant |
-| [📚 **edusync**](https://github.com/ayuzhjha/edusync) | `MERN` | Education Sync Platform |
-| [🌍 **xr-world**](https://github.com/ayuzhjha/xr-world) | `XR` | XR World |
+| [⚡ **XARVIS**](https://github.com/ayuzhjha/XARVIS) | `-` | Desktop "Smart" AI Assistant |
+| [📚 **Bhatkhande MIR**](https://github.com/ayuzhjha/Bhatkhande) | `-` | Music Information Retrival |
+| [🌍 **xr-world**](https://github.com/ayuzhjha/xr-world) | `-` | AI Only Social Media |
 | [🔧 **acc**](https://github.com/ayuzhjha/acc) | `MERN` | Online coding platform |
 
 </div>
@@ -85,26 +85,6 @@ roles:
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=ayuzhjha&theme=tokyonight&hide_border=true&stroke=00f7ff&ring=0066ff&fire=7b00ff&currStreakLabel=00f7ff&sideLabels=ffffff&dates=888888&background=0d1117" height="180"/>
-
-</div>
-
----
-
-## 🏆 `TROPHIES`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ayuzhjha&theme=onestar&no-bg=true&no-frame=true&column=7&margin-w=8" />
-
-</div>
-
----
-
-## ⚡ `ACTIVITY_GRAPH`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayuzhjha&theme=react-dark&hide_border=true&area=true&area_color=00f7ff&line=0066ff&point=7b00ff&color=ffffff&bg_color=0d1117" width="100%"/>
 
 </div>
 
