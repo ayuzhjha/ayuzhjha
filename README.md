@@ -48,15 +48,48 @@ roles:
 
 <div align="center">
 
-| | Category | Stack |
-|:-:|:--|:--|
-| 💻 | **Languages** | <img src="https://skillicons.dev/icons?i=java,js,ts,py,c,cpp,postgres&theme=dark" align="absmiddle"/><br/>`Java` `JavaScript` `TypeScript` `Python` `C/C++` `SQL` |
-| 🎨 | **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,html,css&theme=dark" align="absmiddle"/><br/>`React.js` `Next.js` `HTML5` `CSS3` `PWA` |
-| 🧩 | **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql&theme=dark" align="absmiddle"/><br/>`Node.js` `Express.js` `REST APIs` `JWT` `MongoDB` `PostgreSQL` `MySQL` |
-| 🏗️ | **Infrastructure** | <img src="https://skillicons.dev/icons?i=docker,redis,linux,cloudflare&theme=dark" align="absmiddle"/><br/>`Docker` `Docker Compose` `Redis` `Linux/WSL` `Cloudflare Tunnel` |
-| 🛠️ | **Developer Tools** | <img src="https://skillicons.dev/icons?i=git,github,vite,vercel&theme=dark" align="absmiddle"/><br/>`Git` `GitHub` `Vite` `Render` `Vercel` |
+**`LANGUAGES`**<br/>
+![Java](https://img.shields.io/badge/Java-161b22?style=flat-square&logo=openjdk&logoColor=00f7ff)
+![JavaScript](https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=00f7ff)
+![TypeScript](https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=00f7ff)
+![Python](https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=00f7ff)
+![C](https://img.shields.io/badge/C-161b22?style=flat-square&logo=c&logoColor=00f7ff)
+![C++](https://img.shields.io/badge/C%2B%2B-161b22?style=flat-square&logo=cplusplus&logoColor=00f7ff)
+![SQL](https://img.shields.io/badge/SQL-161b22?style=flat-square&logoColor=00f7ff)
+
+**`FRONTEND`**<br/>
+![React.js](https://img.shields.io/badge/React.js-161b22?style=flat-square&logo=react&logoColor=0066ff)
+![Next.js](https://img.shields.io/badge/Next.js-161b22?style=flat-square&logo=nextdotjs&logoColor=0066ff)
+![HTML5](https://img.shields.io/badge/HTML5-161b22?style=flat-square&logo=html5&logoColor=0066ff)
+![CSS3](https://img.shields.io/badge/CSS3-161b22?style=flat-square&logo=css&logoColor=0066ff)
+![PWA](https://img.shields.io/badge/PWA-161b22?style=flat-square&logo=pwa&logoColor=0066ff)
+
+**`BACKEND`**<br/>
+![Node.js](https://img.shields.io/badge/Node.js-161b22?style=flat-square&logo=nodedotjs&logoColor=7b00ff)
+![Express.js](https://img.shields.io/badge/Express.js-161b22?style=flat-square&logo=express&logoColor=7b00ff)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-161b22?style=flat-square&logo=openapiinitiative&logoColor=7b00ff)
+![JWT](https://img.shields.io/badge/JWT-161b22?style=flat-square&logo=jsonwebtokens&logoColor=7b00ff)
+![MongoDB](https://img.shields.io/badge/MongoDB-161b22?style=flat-square&logo=mongodb&logoColor=7b00ff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161b22?style=flat-square&logo=postgresql&logoColor=7b00ff)
+![MySQL](https://img.shields.io/badge/MySQL-161b22?style=flat-square&logo=mysql&logoColor=7b00ff)
+
+**`INFRASTRUCTURE`**<br/>
+![Docker](https://img.shields.io/badge/Docker-161b22?style=flat-square&logo=docker&logoColor=00f7ff)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-161b22?style=flat-square&logo=docker&logoColor=00f7ff)
+![Redis](https://img.shields.io/badge/Redis-161b22?style=flat-square&logo=redis&logoColor=00f7ff)
+![Linux/WSL](https://img.shields.io/badge/Linux%20%2B%20WSL-161b22?style=flat-square&logo=linux&logoColor=00f7ff)
+![Cloudflare Tunnel](https://img.shields.io/badge/Cloudflare%20Tunnel-161b22?style=flat-square&logo=cloudflare&logoColor=00f7ff)
+
+**`DEVELOPER TOOLS`**<br/>
+![Git](https://img.shields.io/badge/Git-161b22?style=flat-square&logo=git&logoColor=0066ff)
+![GitHub](https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=0066ff)
+![Vite](https://img.shields.io/badge/Vite-161b22?style=flat-square&logo=vite&logoColor=0066ff)
+![Render](https://img.shields.io/badge/Render-161b22?style=flat-square&logo=render&logoColor=0066ff)
+![Vercel](https://img.shields.io/badge/Vercel-161b22?style=flat-square&logo=vercel&logoColor=0066ff)
 
 </div>
+
+---
 
 ---
 
