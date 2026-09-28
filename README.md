@@ -6,7 +6,7 @@
 <!-- CYBER TYPING ANIMATION -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&height=60&lines=%E2%9A%A1+Full+Stack+Developer;%F0%9F%A4%96+AI%2FML+Engineer;%E2%9A%94%EF%B8%8F+Competitive+Programmer;%F0%9F%8C%90+Building+the+XAEZOR+Ecosystem;%F0%9F%94%AC+Engineering+Intelligent+Systems;%F0%9F%94%AC+Wannabe" />
 
-<!-- MATRIX-STYLE DIVIDER -->
+<!-- DIVIDER -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
 </div>
@@ -23,9 +23,8 @@ identity:
   email      : "Ayushjha949@gmail.com"
 
 roles:
-  -B.Tech Undergrad
-  -A Wanna be Competitive Programmer, Full-Stack Web Developer and AI/ML Enthusiast from India.
-
+  - B.Tech Undergrad
+  - Wannabe Competitive Programmer, Full-Stack Web Developer and AI/ML Enthusiast from India
 ```
 
 ---
@@ -34,63 +33,29 @@ roles:
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-%2300f7ff.svg?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ayuzhjha)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230066ff.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayuzhjha)
-[![Instagram](https://img.shields.io/badge/Instagram-%237b00ff.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/notyouayush)
-[![Twitter](https://img.shields.io/badge/X%2FTwitter-%2300f7ff.svg?style=for-the-badge&logo=x&logoColor=black)](https://twitter.com/xaezor_)
+[![GitHub](https://img.shields.io/badge/GitHub-00f7ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ayuzhjha)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0066ff?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayuzhjha)
+[![Instagram](https://img.shields.io/badge/Instagram-7b00ff?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/notyouayush)
+[![X](https://img.shields.io/badge/X-00f7ff?style=for-the-badge&logo=x&logoColor=black)](https://twitter.com/xaezor_)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0066ff?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/ayuzhjha.bsky.social)
+[![Devpost](https://img.shields.io/badge/Devpost-7b00ff?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/ayuzhjha)
 
 </div>
 
 ---
 
-
 ## ⚙️ `TECH_STACK`
- 
-<h3 >◈ Languages</h4>
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=FFD43B"/>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/XML-%23FF6600.svg?style=for-the-badge&logo=xml&logoColor=white"/>
-</p>
- 
-### ◈ Frontend
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![PWA](https://img.shields.io/badge/PWA-%235A0FC8.svg?style=for-the-badge&logo=pwa&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
- 
-### ◈ Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
- 
-### ◈ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
- 
-### ◈ AI/ML
-![Still Learning]([https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-%2300f7ff.svg?style=for-the-badge&logo=thealgorithms&logoColor=black](https://img.shields.io/badge/Learning-%23f7c600.svg?style=for-the-badge&logo=book&logoColor=black))
 
-### ◈ CS Fundamentals
-![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-%2300f7ff.svg?style=for-the-badge&logo=thealgorithms&logoColor=black)
-![DBMS](https://img.shields.io/badge/DBMS-%234479A1.svg?style=for-the-badge&logo=databricks&logoColor=black)
-![OS](https://img.shields.io/badge/Operating%20Systems-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![CN](https://img.shields.io/badge/Computer%20Networks-%230066ff.svg?style=for-the-badge&logo=cisco&logoColor=white)
- 
+<div align="center">
+
+| | Category | Stack |
+|:-:|:--|:--|
+| 💻 | **Languages** | <img src="https://skillicons.dev/icons?i=java,js,ts,py,c,cpp,postgres&theme=dark" align="absmiddle"/><br/>`Java` `JavaScript` `TypeScript` `Python` `C/C++` `SQL` |
+| 🎨 | **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,html,css&theme=dark" align="absmiddle"/><br/>`React.js` `Next.js` `HTML5` `CSS3` `PWA` |
+| 🧩 | **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql&theme=dark" align="absmiddle"/><br/>`Node.js` `Express.js` `REST APIs` `JWT` `MongoDB` `PostgreSQL` `MySQL` |
+| 🏗️ | **Infrastructure** | <img src="https://skillicons.dev/icons?i=docker,redis,linux,cloudflare&theme=dark" align="absmiddle"/><br/>`Docker` `Docker Compose` `Redis` `Linux/WSL` `Cloudflare Tunnel` |
+| 🛠️ | **Developer Tools** | <img src="https://skillicons.dev/icons?i=git,github,vite,vercel&theme=dark" align="absmiddle"/><br/>`Git` `GitHub` `Vite` `Render` `Vercel` |
+
 </div>
 
 ---
@@ -103,7 +68,7 @@ roles:
 |---|---|---|
 | [⚡ **XARVIS**](https://github.com/ayuzhjha/XARVIS) | `AI/ML` | Desktop "Smart" AI Assistant |
 | [📚 **edusync**](https://github.com/ayuzhjha/edusync) | `MERN` | Education Sync Platform |
-| [🎓 **placement-management-system**](https://github.com/ayuzhjha/placement-management-system) | `LAMP` | Placement Management System |
+| [🌍 **xr-world**](https://github.com/ayuzhjha/xr-world) | `XR` | XR World |
 | [🔧 **acc**](https://github.com/ayuzhjha/acc) | `MERN` | Online coding platform |
 
 </div>
@@ -113,19 +78,13 @@ roles:
 ## 📊 `GITHUB_STATS`
 
 <div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayuzhjha&theme=tokyonight" height="180"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayuzhjha&theme=tokyonight" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ayuzhjha&theme=tokyonight&hide_border=true&stroke=00f7ff&ring=0066ff&fire=7b00ff&currStreakLabel=00f7ff&sideLabels=ffffff&dates=888888&background=0d1117" height="180"/>
 
-</div>
+<br/>
 
----
-
-## 🧬 `TOP_LANGUAGES`
-
-<div align="center">
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayuzhjha&layout=compact&theme=tokyonight&hide_border=true&title_color=00f7ff&text_color=ffffff&bg_color=0d1117&langs_count=6" />
+<img src="https://streak-stats.demolab.com?user=ayuzhjha&theme=tokyonight&hide_border=true&stroke=00f7ff&ring=0066ff&fire=7b00ff&currStreakLabel=00f7ff&sideLabels=ffffff&dates=888888&background=0d1117" height="180"/>
 
 </div>
 
@@ -150,7 +109,6 @@ roles:
 </div>
 
 ---
-
 
 <!-- ANIMATED FOOTER -->
 <div align="center">
