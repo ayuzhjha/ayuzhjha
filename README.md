@@ -35,7 +35,7 @@ roles:
 
 [![GitHub](https://img.shields.io/badge/GitHub-00f7ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ayuzhjha)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0066ff?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayuzhjha)
-[![Instagram](https://img.shields.io/badge/Instagram-7b00ff?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/notyouayush)
+[![Instagram](https://img.shields.io/badge/Instagram-7b00ff?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/whenayush)
 [![X](https://img.shields.io/badge/X-00f7ff?style=for-the-badge&logo=x&logoColor=black)](https://twitter.com/xaezor_)
 [![Bluesky](https://img.shields.io/badge/Bluesky-0066ff?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/ayuzhjha.bsky.social)
 [![Devpost](https://img.shields.io/badge/Devpost-7b00ff?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/ayuzhjha)
