@@ -13,22 +13,6 @@
 
 ---
 
-## 🧠 `ABOUT_ME`
-
-```yaml
-identity:
-  name       : "Ayush Jha"
-  location   : "India 🇮🇳"
-  status     : "Online — Building Projects"
-  email      : "Ayushjha949@gmail.com"
-
-roles:
-  - B.Tech Undergrad
-  - Wannabe Competitive Programmer, Full-Stack Web Developer and AI/ML Enthusiast from India
-```
-
----
-
 ## 🌐 `CONNECT`
 
 <div align="center">
